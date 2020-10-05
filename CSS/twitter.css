@@ -1,5 +1,5 @@
 body{
-  background-color: rgb(21, 32, 43);
+  background-color: #292f33;
 }
 
 .container{
@@ -27,6 +27,12 @@ body{
 .lab{
   color: white;
   font-family: Arial;
+}
+
+input,
+select,
+textarea {
+  color: white;
 }
 
 .inp{
